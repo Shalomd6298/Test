@@ -66,4 +66,7 @@ int main()
     Bubble(arr,n);
     Insertion(arr,n);
     Selection(arr,n);
+    
+    cout<<"Changes have been made"<<endl;
+    return;
 }
